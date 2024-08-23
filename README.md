@@ -12,4 +12,4 @@ I'm Anant Srivastava, a passionate Machine Learning enthusiast with a keen inter
 
 💬 Ask me about anything related to Machine Learning and Deep Learning; I love discussing these topics!
 📫 You can reach me via email at srivastavaanant016@gmail.com.
-😄 Pronouns: he/him
+
