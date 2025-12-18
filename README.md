@@ -1,15 +1,31 @@
-Hi there! 👋
-I'm Anant Srivastava, a passionate Machine Learning enthusiast with a keen interest in Deep Learning and its applications. Welcome to my GitHub profile! Here's a bit about me:
+# Anant Srivastava
 
-🔭 I’m currently working on projects related to Machine Learning and Deep Learning.
-🌱 I’m currently deepening my knowledge in Deep Learning and exploring its implications.
-👯 I enjoy diving into research papers to stay updated with the latest advancements in AI.
+Data Scientist (Graduate Engineer Trainee) at Fidelity Investments — Asset Management Technology (Fixed Income).  
+I build data/analytics workflows for stakeholder reporting and data pipelines, and I enjoy working at the intersection of financial datasets, automation, and applied machine learning.
 
+- LinkedIn: https://www.linkedin.com/in/anantsri12
 
-💼 I have experience as a Data Science Intern at Fidelity Investments, where I worked on real-world data analysis and machine learning projects.
-💼 I'm also the founder of Finze.AI, where I lead the development of cutting-edge AI solutions for stock market analysis.
+## What I work on
+- Fixed Income data pipelines (holdings + reference data) and stakeholder-facing SQL extracts
+- Event-driven ingestion and processing (Kafka) with validation and structured outputs
+- Automation and reliability improvements across reporting workflows
+- Applied ML/GenAI experimentation (LLMs, RAG, LangChain) when it improves operational workflows
 
+## Tech stack
+- **Programming:** Python, SQL, PL/SQL, Perl
+- **Data/DB:** Oracle, Snowflake, MongoDB, Hadoop
+- **BI:** Tableau, Power BI
+- **Streaming/DevOps:** Kafka, Docker, Jenkins
+- **GenAI/ML:** LLMs, RAG, LangChain, Model Evaluation, Data Pipelines
+- **Cloud:** AWS, Azure
 
-💬 Ask me about anything related to Machine Learning and Deep Learning; I love discussing these topics!
-📫 You can reach me via email at srivastavaanant016@gmail.com.
+## Featured work (selected)
+- **Fund Manager Analytics / Reporting Solution:** Automated data preparation and reporting using Python + SQL and generated BI-ready datasets for Tableau/Power BI/Excel workflows.
+- **Best-of-Breed Architecture Revamp:** Simplified an internal workflow by automating manual steps; improved efficiency and accuracy through a more reliable operating model.
+- **Research (DRDO/CABS):** Worked on ISAR image generation workflows using GANs and super-resolution methods.
 
+## Publications
+- Published with **CRC Press / Taylor & Francis Group** (details available on request / in CV).
+
+## Notes
+Most of my professional work is in private repositories. This GitHub focuses on personal projects, experiments, and reusable utilities.
