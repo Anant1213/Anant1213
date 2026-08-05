@@ -1,7 +1,7 @@
 # Anant Srivastava 👋
 
-📍 Data Scientist (Graduate Engineer Trainee) @ **Fidelity Investments** — Asset Management Technology (**Fixed Income**)  
-I build **data/analytics workflows** for stakeholder reporting and **reliable data pipelines**, with a strong interest in **automation + applied ML/GenAI**.
+📍 AI Software Engineer @ **Fidelity Investments** — Asset Management Technology (**Fixed Income**)  
+I build **Gen AI  workflows** for stakeholder reporting and **reliable data pipelines**, with a strong interest in **automation + applied ML/GenAI**.
 
 🔗 LinkedIn: https://www.linkedin.com/in/anantsri12  
 💻 GitHub: https://github.com/Anant1213  
@@ -10,7 +10,7 @@ I build **data/analytics workflows** for stakeholder reporting and **reliable da
 
 ## What I work on 🚀
 - 📌 Fixed Income data pipelines: **holdings + reference data**
-- 🧾 Stakeholder-facing **Oracle SQL extracts** and reporting automation
+- 🧾 Stakeholder-facing NL2SQL at production grade
 - 📨 Event-driven ingestion & processing with **Kafka**
 - 🤖 Practical GenAI usage (**LLMs, RAG, LangChain**) when it improves workflow efficiency and standardization
 
